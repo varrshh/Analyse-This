@@ -1,4 +1,4 @@
-# Insight-Analysis-using-Python-StreamLit
+
 Not everybody knows Python. So if not python will we be not able to analyse the data?. Not so!
 Here is automated analysis genie satisfying all the basic analyticaL needs a beginner wants
 
